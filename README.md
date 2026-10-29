@@ -37,7 +37,7 @@ An end-to-end geospatial machine learning pipeline and interactive web applicati
 
 ### 1. Clone & Activate Environment
 ```bash
-git clone [https://github.com/your-username/satellite-flood-detection.git](https://github.com/your-username/satellite-flood-detection.git)
+git clone https://github.com/your-username/satellite-flood-detection.git
 cd satellite-flood-detection
 
 python -m venv venv
